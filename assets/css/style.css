@@ -442,3 +442,10 @@ a:focus,
   background: #ff6600;
   color: white;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; height: 50%;
+}
